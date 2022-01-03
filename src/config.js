@@ -5,8 +5,8 @@ const isLocal = typeof process.pkg === "undefined";
 const basePath = isLocal ? process.cwd() : path.dirname(process.execPath);
 const { MODE } = require(path.join(basePath, "src/blendMode.js"));
 const description =
-  "These Princesses are the romantic counterparts of the chillest collection around - Chill Frogs. With over 600,000 different combinations no two princesses are the same. These princesses were minted free for Chill Frog holders; if you own a frog and wish to claim your free princess you can find out more over at https://chillfrogs.io/ and in our discord!";
-const baseUri = "ipfs://NewUriToReplace";
+  "These Princesses are the romantic counterparts of the chillest collection around - Chill Frogs. With over 6000 different combinations no two princesses are the same. These princesses were minted free for Chill Frog holders; if you own a frog and wish to claim your free princess you can find out more over at https://chillfrogs.io/ and in our discord!";
+const baseUri = "ipfs://QmZiPBiJXAbS9F354APMm9rX46nKc693BQyFWMu5bL523R";
 
 const layerConfigurations = [
   {
@@ -75,7 +75,7 @@ const layerConfigurations = [
     ],
   },
   {
-    growEditionSizeTo: 3,
+    growEditionSizeTo: 5998,
     layersOrder: [
       { name: "UniquePrincess" },
     ],
