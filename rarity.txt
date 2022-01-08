@@ -1,0 +1,556 @@
+Trait type: Background
+{ trait: 'Alien', chance: '1', occurrence: '1% out of 100%' }
+{ trait: 'Basic', chance: '35', occurrence: '32% out of 100%' }
+{ trait: 'Castle', chance: '2', occurrence: '3% out of 100%' }
+{ trait: 'Common', chance: '25', occurrence: '25% out of 100%' }
+{ trait: 'Exotic', chance: '6', occurrence: '6% out of 100%' }
+{ trait: 'Hell', chance: '2', occurrence: '2% out of 100%' }
+{ trait: 'Ice', chance: '1', occurrence: '1% out of 100%' }
+{ trait: 'Pond', chance: '2', occurrence: '1% out of 100%' }
+{ trait: 'Rare', chance: '10', occurrence: '11% out of 100%' }
+{ trait: 'Uncommon', chance: '18', occurrence: '19% out of 100%' }
+
+Trait type: Alien
+{ trait: 'AlienBase', chance: '100', occurrence: '12% out of 100%' }
+
+Trait type: Alien/Shirt
+{ trait: 'AlienBallGown', chance: '8', occurrence: '1% out of 100%' }
+{ trait: 'AlienCardboard', chance: '4', occurrence: '0% out of 100%' }
+{
+  trait: 'AlienHoodieBlack',
+  chance: '11',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'AlienHoodiePurple',
+  chance: '10',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'AlienLabcoat', chance: '2', occurrence: '0% out of 100%' }
+{ trait: 'AlienNightgown', chance: '9', occurrence: '1% out of 100%' }
+{
+  trait: 'AlienRenaissance',
+  chance: '8',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'AlienSpacesuit', chance: '3', occurrence: '1% out of 100%' }
+{
+  trait: 'AlienSummerDress',
+  chance: '10',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'AlienTeeBlack', chance: '14', occurrence: '2% out of 100%' }
+{ trait: 'AlienTeeRed', chance: '14', occurrence: '2% out of 100%' }
+{ trait: 'AlienTentacles', chance: '1', occurrence: '0% out of 100%' }
+{ trait: 'AlienWonderland', chance: '6', occurrence: '1% out of 100%' }
+
+Trait type: Alien/Face
+{ trait: 'AlienCute1', chance: '7', occurrence: '1% out of 100%' }
+{ trait: 'AlienCute2', chance: '5', occurrence: '1% out of 100%' }
+{ trait: 'AlienCute3', chance: '3', occurrence: '0% out of 100%' }
+{ trait: 'AlienCute4', chance: '1', occurrence: '0% out of 100%' }
+{ trait: 'AlienEvil1', chance: '7', occurrence: '1% out of 100%' }
+{ trait: 'AlienEvil2', chance: '5', occurrence: '1% out of 100%' }
+{ trait: 'AlienEvil3', chance: '3', occurrence: '0% out of 100%' }
+{ trait: 'AlienEvil4', chance: '1', occurrence: '0% out of 100%' }
+{
+  trait: 'AlienFuturistic1',
+  chance: '4',
+  occurrence: '0% out of 100%'
+}
+{
+  trait: 'AlienFuturistic2',
+  chance: '2',
+  occurrence: '0% out of 100%'
+}
+{ trait: 'AlienHappy1', chance: '9', occurrence: '1% out of 100%' }
+{ trait: 'AlienHappy2', chance: '5', occurrence: '1% out of 100%' }
+{ trait: 'AlienHappy3', chance: '3', occurrence: '0% out of 100%' }
+{ trait: 'AlienHappy4', chance: '1', occurrence: '0% out of 100%' }
+{ trait: 'AlienNormal1', chance: '12', occurrence: '2% out of 100%' }
+{ trait: 'AlienNormal2', chance: '7', occurrence: '1% out of 100%' }
+{ trait: 'AlienNormal3', chance: '5', occurrence: '1% out of 100%' }
+{ trait: 'AlienNormal4', chance: '3', occurrence: '0% out of 100%' }
+{ trait: 'AlienSad1', chance: '7', occurrence: '1% out of 100%' }
+{ trait: 'AlienSad2', chance: '5', occurrence: '1% out of 100%' }
+{ trait: 'AlienSad3', chance: '4', occurrence: '1% out of 100%' }
+{ trait: 'AlienSad4', chance: '2', occurrence: '0% out of 100%' }
+
+Trait type: Alien/Hair
+{ trait: 'AlienAntenna1', chance: '14', occurrence: '2% out of 100%' }
+{ trait: 'AlienAntenna2', chance: '14', occurrence: '2% out of 100%' }
+{ trait: 'AlienAntenna3', chance: '10', occurrence: '1% out of 100%' }
+{
+  trait: 'AlienHumanTrophy',
+  chance: '5',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'AlienMedusa', chance: '7', occurrence: '1% out of 100%' }
+{
+  trait: 'AlienMohawkBlue',
+  chance: '10',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'AlienMohawkGreen',
+  chance: '10',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'AlienMohawkOrange',
+  chance: '10',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'AlienMohawkPink',
+  chance: '10',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'AlienMohawkRed', chance: '10', occurrence: '1% out of 100%' }
+
+Trait type: Alien/Hat
+{ trait: 'AlienBow', chance: '30', occurrence: '4% out of 100%' }
+{ trait: 'AlienCrown', chance: '15', occurrence: '2% out of 100%' }
+{ trait: 'AlienNoHat', chance: '45', occurrence: '5% out of 100%' }
+{ trait: 'AlienTiara', chance: '10', occurrence: '1% out of 100%' }
+
+Trait type: Ape
+{ trait: 'ApeBase', chance: '100', occurrence: '21% out of 100%' }
+{ trait: '', chance: '0', occurrence: '0% out of 100%' }
+{ trait: '', chance: '0', occurrence: '0% out of 100%' }
+{ trait: 'S', chance: '0', occurrence: '0% out of 100%' }
+
+Trait type: Ape/Shirt
+{ trait: 'ApeAlice', chance: '7', occurrence: '2% out of 100%' }
+{ trait: 'ApeCinderella', chance: '7', occurrence: '1% out of 100%' }
+{ trait: 'ApeFur', chance: '8', occurrence: '2% out of 100%' }
+{ trait: 'ApeLabcoat', chance: '5', occurrence: '1% out of 100%' }
+{ trait: 'ApeRedDress', chance: '13', occurrence: '3% out of 100%' }
+{ trait: 'ApeTeeBlack', chance: '18', occurrence: '3% out of 100%' }
+{ trait: 'ApeTeePeach', chance: '18', occurrence: '3% out of 100%' }
+{ trait: 'ApeTinkerbell', chance: '7', occurrence: '2% out of 100%' }
+{ trait: 'ApeTuxedo', chance: '3', occurrence: '1% out of 100%' }
+{ trait: 'ApeYellowDress', chance: '14', occurrence: '3% out of 100%' }
+
+Trait type: Ape/Face
+{ trait: 'ApeAngry', chance: '13', occurrence: '3% out of 100%' }
+{ trait: 'ApeBigGrin', chance: '8', occurrence: '2% out of 100%' }
+{ trait: 'ApeCute', chance: '10', occurrence: '2% out of 100%' }
+{ trait: 'ApeHappy', chance: '20', occurrence: '4% out of 100%' }
+{ trait: 'ApeNormal', chance: '25', occurrence: '4% out of 100%' }
+{ trait: 'ApeOoOoAaAa', chance: '3', occurrence: '1% out of 100%' }
+{ trait: 'ApeSad', chance: '12', occurrence: '2% out of 100%' }
+{ trait: 'ApeSilly', chance: '4', occurrence: '1% out of 100%' }
+{ trait: 'ApeSleepy', chance: '5', occurrence: '1% out of 100%' }
+
+Trait type: Ape/Hat
+{
+  trait: 'ApeBowlerHatBlue',
+  chance: '18',
+  occurrence: '3% out of 100%'
+}
+{
+  trait: 'ApeBowlerHatGreen',
+  chance: '18',
+  occurrence: '4% out of 100%'
+}
+{
+  trait: 'ApeBowlerHatRed',
+  chance: '17',
+  occurrence: '3% out of 100%'
+}
+{ trait: 'ApeCrown', chance: '9', occurrence: '2% out of 100%' }
+{ trait: 'ApeFes', chance: '12', occurrence: '2% out of 100%' }
+{ trait: 'ApeNoHat', chance: '5', occurrence: '1% out of 100%' }
+{ trait: 'ApePartyHat', chance: '9', occurrence: '2% out of 100%' }
+{ trait: 'ApeSailorHat', chance: '6', occurrence: '1% out of 100%' }
+{ trait: 'ApeTiara', chance: '5', occurrence: '1% out of 100%' }
+{ trait: 'ApeTopHat', chance: '1', occurrence: '0% out of 100%' }
+
+Trait type: Devil/Wings
+{ trait: 'DevilNoWings', chance: '65', occurrence: '10% out of 100%' }
+{ trait: 'DevilWings', chance: '35', occurrence: '5% out of 100%' }
+
+Trait type: Devil
+{ trait: 'DevilBase', chance: '100', occurrence: '15% out of 100%' }
+
+Trait type: Devil/Shirt
+{
+  trait: 'DevilHoodieBlack',
+  chance: '17',
+  occurrence: '3% out of 100%'
+}
+{
+  trait: 'DevilHoodieBlue',
+  chance: '17',
+  occurrence: '3% out of 100%'
+}
+{
+  trait: 'DevilHoodieGrey',
+  chance: '17',
+  occurrence: '3% out of 100%'
+}
+{
+  trait: 'DevilLadyJustice',
+  chance: '8',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'DevilNightgown', chance: '12', occurrence: '2% out of 100%' }
+{ trait: 'DevilTeeSkull', chance: '20', occurrence: '3% out of 100%' }
+{ trait: 'DevilTux', chance: '6', occurrence: '1% out of 100%' }
+{ trait: 'DevilVampiresa', chance: '3', occurrence: '0% out of 100%' }
+
+Trait type: Devil/Face
+{ trait: 'DevilAngry', chance: '8', occurrence: '1% out of 100%' }
+{ trait: 'DevilCute', chance: '12', occurrence: '2% out of 100%' }
+{ trait: 'DevilFangs', chance: '5', occurrence: '1% out of 100%' }
+{ trait: 'DevilHalloween', chance: '8', occurrence: '1% out of 100%' }
+{ trait: 'DevilHappy', chance: '15', occurrence: '2% out of 100%' }
+{
+  trait: 'DevilNightmareFuel',
+  chance: '5',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'DevilNormal', chance: '20', occurrence: '3% out of 100%' }
+{ trait: 'DevilSad', chance: '12', occurrence: '2% out of 100%' }
+{ trait: 'DevilSleepy', chance: '15', occurrence: '2% out of 100%' }
+
+Trait type: Devil/Hair
+{
+  trait: 'DevilHairbandBlue',
+  chance: '9',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'DevilHairbandGreen',
+  chance: '9',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'DevilHairbandOrange',
+  chance: '9',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'DevilHairbandPurple',
+  chance: '9',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'DevilHairbandYellow',
+  chance: '9',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'DevilHairBlue', chance: '10', occurrence: '1% out of 100%' }
+{ trait: 'DevilHairFire', chance: '4', occurrence: '1% out of 100%' }
+{ trait: 'DevilHairGreen', chance: '10', occurrence: '1% out of 100%' }
+{ trait: 'DevilHairHades', chance: '1', occurrence: '0% out of 100%' }
+{
+  trait: 'DevilHairOrange',
+  chance: '10',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'DevilHairPurple',
+  chance: '10',
+  occurrence: '2% out of 100%'
+}
+{
+  trait: 'DevilHairYellow',
+  chance: '10',
+  occurrence: '2% out of 100%'
+}
+
+Trait type: Devil/Hat
+{ trait: 'DevilBunnyEars', chance: '30', occurrence: '5% out of 100%' }
+{ trait: 'DevilCrown', chance: '17', occurrence: '3% out of 100%' }
+{ trait: 'DevilNoHat', chance: '45', occurrence: '6% out of 100%' }
+{ trait: 'DevilTiara', chance: '8', occurrence: '1% out of 100%' }
+
+Trait type: Devil/Horns
+{
+  trait: 'DevilHornsLarge',
+  chance: '20',
+  occurrence: '4% out of 100%'
+}
+{
+  trait: 'DevilHornsLarge2',
+  chance: '10',
+  occurrence: '2% out of 100%'
+}
+{
+  trait: 'DevilHornsRegular',
+  chance: '40',
+  occurrence: '6% out of 100%'
+}
+{
+  trait: 'DevilHornsSmall',
+  chance: '30',
+  occurrence: '4% out of 100%'
+}
+
+Trait type: Human
+{ trait: '', chance: '0', occurrence: '0% out of 100%' }
+{ trait: 'Frozen H', chance: '0', occurrence: '0% out of 100%' }
+{ trait: '', chance: '0', occurrence: '0% out of 100%' }
+{ trait: '', chance: '0', occurrence: '0% out of 100%' }
+{ trait: 'HumanBase1', chance: '50', occurrence: '21% out of 100%' }
+{ trait: 'HumanBase2', chance: '50', occurrence: '21% out of 100%' }
+{ trait: 'S', chance: '0', occurrence: '0% out of 100%' }
+
+Trait type: Human/Shirt
+{ trait: 'HumanAlice', chance: '8', occurrence: '4% out of 100%' }
+{ trait: 'HumanAngel', chance: '2', occurrence: '1% out of 100%' }
+{ trait: 'HumanBallgown', chance: '7', occurrence: '3% out of 100%' }
+{ trait: 'HumanElegant', chance: '8', occurrence: '3% out of 100%' }
+{
+  trait: 'HumanHoodieBlack',
+  chance: '16',
+  occurrence: '7% out of 100%'
+}
+{
+  trait: 'HumanHoodieBlue',
+  chance: '16',
+  occurrence: '6% out of 100%'
+}
+{ trait: 'HumanHoodieRed', chance: '16', occurrence: '7% out of 100%' }
+{
+  trait: 'HumanRenaissance',
+  chance: '12',
+  occurrence: '5% out of 100%'
+}
+{
+  trait: 'HumanSundayBest',
+  chance: '11',
+  occurrence: '5% out of 100%'
+}
+{ trait: 'HumanTux', chance: '4', occurrence: '1% out of 100%' }
+
+Trait type: Human/Face
+{ trait: 'HumanAngry', chance: '16', occurrence: '6% out of 100%' }
+{ trait: 'HumanBitcoin', chance: '2', occurrence: '1% out of 100%' }
+{ trait: 'HumanCovid', chance: '6', occurrence: '2% out of 100%' }
+{ trait: 'HumanCute', chance: '13', occurrence: '6% out of 100%' }
+{ trait: 'HumanHappy', chance: '23', occurrence: '9% out of 100%' }
+{ trait: 'HumanSad', chance: '11', occurrence: '4% out of 100%' }
+{ trait: 'HumanShocked', chance: '9', occurrence: '4% out of 100%' }
+{ trait: 'HumanSilly', chance: '8', occurrence: '4% out of 100%' }
+{ trait: 'HumanSleepy', chance: '12', occurrence: '5% out of 100%' }
+
+Trait type: Human/Hair
+{
+  trait: 'HumanBeanieBlack',
+  chance: '4',
+  occurrence: '2% out of 100%'
+}
+{
+  trait: 'HumanBeanieBlonde',
+  chance: '4',
+  occurrence: '2% out of 100%'
+}
+{
+  trait: 'HumanBeanieBrunette',
+  chance: '4',
+  occurrence: '2% out of 100%'
+}
+{
+  trait: 'HumanBeanieGinger',
+  chance: '4',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'HumanBowBlack', chance: '6', occurrence: '2% out of 100%' }
+{ trait: 'HumanBowBlonde', chance: '6', occurrence: '3% out of 100%' }
+{
+  trait: 'HumanBowBrunette',
+  chance: '5',
+  occurrence: '2% out of 100%'
+}
+{ trait: 'HumanBowGinger', chance: '5', occurrence: '2% out of 100%' }
+{ trait: 'HumanLongBlack', chance: '7', occurrence: '3% out of 100%' }
+{ trait: 'HumanLongBlonde', chance: '7', occurrence: '3% out of 100%' }
+{
+  trait: 'HumanLongBrunette',
+  chance: '7',
+  occurrence: '3% out of 100%'
+}
+{ trait: 'HumanLongGinger', chance: '7', occurrence: '3% out of 100%' }
+{ trait: 'HumanPunkBlue', chance: '2', occurrence: '1% out of 100%' }
+{ trait: 'HumanPunkGreen', chance: '2', occurrence: '1% out of 100%' }
+{ trait: 'HumanPunkRed', chance: '2', occurrence: '1% out of 100%' }
+{ trait: 'HumanShortBlack', chance: '7', occurrence: '3% out of 100%' }
+{
+  trait: 'HumanShortBlonde',
+  chance: '7',
+  occurrence: '3% out of 100%'
+}
+{
+  trait: 'HumanShortBrunette',
+  chance: '7',
+  occurrence: '3% out of 100%'
+}
+{
+  trait: 'HumanShortOrange',
+  chance: '7',
+  occurrence: '3% out of 100%'
+}
+
+Trait type: Human/Hat
+{ trait: 'HumanCrown', chance: '30', occurrence: '13% out of 100%' }
+{ trait: 'HumanHalo', chance: '10', occurrence: '4% out of 100%' }
+{ trait: 'HumanNoHat', chance: '40', occurrence: '18% out of 100%' }
+{ trait: 'HumanTiara', chance: '20', occurrence: '8% out of 100%' }
+
+Trait type: Human/Frozen Hands
+{
+  trait: 'HumanFrozenHands',
+  chance: '10',
+  occurrence: '5% out of 100%'
+}
+{
+  trait: 'HumanNoFrozenHands',
+  chance: '90',
+  occurrence: '37% out of 100%'
+}
+
+Trait type: Ice/Shirt
+{
+  trait: 'IceBodyBikiniBlack',
+  chance: '11',
+  occurrence: '0% out of 100%'
+}
+{
+  trait: 'IceBodyBikiniRed',
+  chance: '11',
+  occurrence: '0% out of 100%'
+}
+{ trait: 'IceBodyCubes', chance: '5', occurrence: '0% out of 100%' }
+{ trait: 'IceBodyDress', chance: '8', occurrence: '0% out of 100%' }
+{ trait: 'IceBodyIcy', chance: '13', occurrence: '1% out of 100%' }
+{ trait: 'IceBodySnowman', chance: '2', occurrence: '0% out of 100%' }
+{ trait: 'IceBodySuperIcy', chance: '5', occurrence: '0% out of 100%' }
+{
+  trait: 'IceBodyTeeBlack',
+  chance: '15',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'IceBodyTeeBlue', chance: '15', occurrence: '0% out of 100%' }
+{ trait: 'IceBodyTeeRed', chance: '15', occurrence: '0% out of 100%' }
+
+Trait type: Ice/Head
+{ trait: 'IceBeanie', chance: '25', occurrence: '1% out of 100%' }
+{ trait: 'IceDelicious', chance: '20', occurrence: '1% out of 100%' }
+{ trait: 'IceDevil', chance: '15', occurrence: '1% out of 100%' }
+{ trait: 'IceGoddess', chance: '8', occurrence: '0% out of 100%' }
+{ trait: 'IceIcicle', chance: '30', occurrence: '1% out of 100%' }
+{ trait: 'IceQueen2', chance: '0', occurrence: '0% out of 100%' }
+
+Trait type: Ice/Face
+{ trait: 'IceAngry', chance: '20', occurrence: '1% out of 100%' }
+{ trait: 'IceBored', chance: '18', occurrence: '1% out of 100%' }
+{ trait: 'IceCute', chance: '9', occurrence: '0% out of 100%' }
+{ trait: 'IceHappy', chance: '27', occurrence: '1% out of 100%' }
+{ trait: 'IceSad', chance: '14', occurrence: '0% out of 100%' }
+{ trait: 'IceSleepy', chance: '12', occurrence: '0% out of 100%' }
+
+Trait type: Zombie/Shirt
+{
+  trait: 'SkeletonDressBlack',
+  chance: '6',
+  occurrence: '0% out of 100%'
+}
+{
+  trait: 'SkeletonDressBlue',
+  chance: '6',
+  occurrence: '0% out of 100%'
+}
+{
+  trait: 'SkeletonDressRed',
+  chance: '6',
+  occurrence: '0% out of 100%'
+}
+{
+  trait: 'SkeletonHoodieBlack',
+  chance: '8',
+  occurrence: '1% out of 100%'
+}
+{
+  trait: 'SkeletonHoodieRed',
+  chance: '8',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'SkeletonTux', chance: '3', occurrence: '0% out of 100%' }
+{
+  trait: 'ZombieDressBlack',
+  chance: '6',
+  occurrence: '0% out of 100%'
+}
+{ trait: 'ZombieDressBlue', chance: '6', occurrence: '0% out of 100%' }
+{ trait: 'ZombieDressGrey', chance: '6', occurrence: '0% out of 100%' }
+{
+  trait: 'ZombieHoleyMoley',
+  chance: '3',
+  occurrence: '0% out of 100%'
+}
+{
+  trait: 'ZombieHoodieBlack',
+  chance: '6',
+  occurrence: '0% out of 100%'
+}
+{ trait: 'ZombieHoodieRed', chance: '6', occurrence: '1% out of 100%' }
+{ trait: 'ZombieTeeBlack', chance: '6', occurrence: '1% out of 100%' }
+{ trait: 'ZombieTeeBlue', chance: '6', occurrence: '0% out of 100%' }
+{ trait: 'ZombieTeeRed', chance: '6', occurrence: '1% out of 100%' }
+{ trait: 'ZombieTeeYellow', chance: '7', occurrence: '1% out of 100%' }
+{ trait: 'ZombieTux', chance: '4', occurrence: '0% out of 100%' }
+{ trait: 'ZombieZombie', chance: '2', occurrence: '0% out of 100%' }
+
+Trait type: Zombie/Face
+{ trait: 'MummyAngry', chance: '3', occurrence: '0% out of 100%' }
+{ trait: 'MummyHappy', chance: '4', occurrence: '0% out of 100%' }
+{ trait: 'SkeletonAngry', chance: '7', occurrence: '1% out of 100%' }
+{ trait: 'SkeletonBloody', chance: '3', occurrence: '0% out of 100%' }
+{ trait: 'SkeletonHappy', chance: '12', occurrence: '1% out of 100%' }
+{ trait: 'SkeletonSad', chance: '10', occurrence: '1% out of 100%' }
+{ trait: 'SkeletonSleepy', chance: '6', occurrence: '0% out of 100%' }
+{ trait: 'ZombieAngry', chance: '8', occurrence: '1% out of 100%' }
+{ trait: 'ZombieBloody', chance: '3', occurrence: '0% out of 100%' }
+{ trait: 'ZombieHappy', chance: '16', occurrence: '1% out of 100%' }
+{ trait: 'ZombieLeeches', chance: '7', occurrence: '0% out of 100%' }
+{ trait: 'ZombieSad', chance: '12', occurrence: '1% out of 100%' }
+{ trait: 'ZombieSleepy', chance: '9', occurrence: '0% out of 100%' }
+
+Trait type: Zombie/Hair
+{ trait: 'ZombieBlack', chance: '10', occurrence: '1% out of 100%' }
+{ trait: 'ZombieBlonde', chance: '10', occurrence: '1% out of 100%' }
+{ trait: 'ZombieBrunette', chance: '10', occurrence: '1% out of 100%' }
+{
+  trait: 'ZombieFrankenstein',
+  chance: '5',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'ZombieGinger', chance: '15', occurrence: '1% out of 100%' }
+{
+  trait: 'ZombieHeadbandBlack',
+  chance: '20',
+  occurrence: '2% out of 100%'
+}
+{
+  trait: 'ZombieHeadbandRed',
+  chance: '20',
+  occurrence: '1% out of 100%'
+}
+{ trait: 'ZombieNoHair', chance: '10', occurrence: '1% out of 100%' }
+
+Trait type: Zombie/Hat
+{ trait: 'ZombieAxe', chance: '18', occurrence: '2% out of 100%' }
+{ trait: 'ZombieBrain', chance: '14', occurrence: '1% out of 100%' }
+{ trait: 'ZombieCrown', chance: '24', occurrence: '2% out of 100%' }
+{ trait: 'ZombieNoHat', chance: '38', occurrence: '3% out of 100%' }
+{ trait: 'ZombieTiara', chance: '6', occurrence: '0% out of 100%' }
+
+Trait type: UniquePrincess
+{ trait: 'Egirl', chance: '1', occurrence: '25% out of 100%' }
+{ trait: 'Goddess', chance: '1', occurrence: '25% out of 100%' }
+{ trait: 'SneakyFrog', chance: '1', occurrence: '25% out of 100%' }
+{ trait: 'M0NZTR', chance: '1', occurrence: '25% out of 100%' }
+{ trait: 'InfiniteOne', chance: '1', occurrence: '25% out of 100%' }

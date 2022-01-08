@@ -6,7 +6,7 @@ const basePath = isLocal ? process.cwd() : path.dirname(process.execPath);
 const { MODE } = require(path.join(basePath, "src/blendMode.js"));
 const description =
   "These Princesses are the romantic counterparts of the chillest collection around - Chill Frogs. With over 6000 different combinations no two princesses are the same. These princesses were minted free for Chill Frog holders; if you own a frog and wish to claim your free princess you can find out more over at https://chillfrogs.io/ and in our discord!";
-const baseUri = "ipfs://QmZiPBiJXAbS9F354APMm9rX46nKc693BQyFWMu5bL523R";
+const baseUri = "ipfs://QmQrDjVZCbwFhVBd6yBNqWMKyL9fDG3xkEYLJ4ecyLGjjv";
 
 const layerConfigurations = [
   {

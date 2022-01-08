@@ -1,0 +1,25 @@
+0 info it worked if it ends with ok
+1 verbose cli [
+1 verbose cli   'C:\\Program Files\\nodejs\\node.exe',
+1 verbose cli   'C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js',
+1 verbose cli   'run',
+1 verbose cli   'rarity'
+1 verbose cli ]
+2 info using npm@6.14.13
+3 info using node@v14.17.1
+4 verbose stack Error: missing script: rarity
+4 verbose stack     at run (C:\Program Files\nodejs\node_modules\npm\lib\run-script.js:155:19)
+4 verbose stack     at C:\Program Files\nodejs\node_modules\npm\lib\run-script.js:63:5
+4 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:116:5
+4 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:436:5
+4 verbose stack     at handleExists (C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:400:20)
+4 verbose stack     at C:\Program Files\nodejs\node_modules\npm\node_modules\read-package-json\read-json.js:416:31
+4 verbose stack     at callback (C:\Program Files\nodejs\node_modules\npm\node_modules\graceful-fs\polyfills.js:295:20)
+4 verbose stack     at FSReqCallback.oncomplete (fs.js:193:5)
+5 verbose cwd C:\Ethereum\NFT\PricessProject\nft_princess_art_generator
+6 verbose Windows_NT 10.0.10240
+7 verbose argv "C:\\Program Files\\nodejs\\node.exe" "C:\\Program Files\\nodejs\\node_modules\\npm\\bin\\npm-cli.js" "run" "rarity"
+8 verbose node v14.17.1
+9 verbose npm  v6.14.13
+10 error missing script: rarity
+11 verbose exit [ 1, true ]
